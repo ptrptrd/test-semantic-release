@@ -1,14 +1,19 @@
 {
   "name": "test-semantic-release",
-  "version": "0.0.0-dev",
+  "version": "0.0.0",
   "description": "Repository for testing purposes",
   "main": "index.js",
+  "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ptrptrd/test-semantic-release.git"
+  },
+  "release": {
+    "branches": ["main"],
+    "tagFormat": "${version}"
   },
   "author": "",
   "license": "ISC",
