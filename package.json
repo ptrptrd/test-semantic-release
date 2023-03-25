@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/ptrptrd/test-semantic-release.git"
   },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
+  },
   "release": {
     "branches": ["main"],
     "tagFormat": "${version}",
