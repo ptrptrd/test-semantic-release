@@ -1,6 +1,6 @@
 {
   "name": "test-semantic-release",
-  "version": "0.0.0",
+  "version": "1.3.1",
   "description": "Repository for testing purposes",
   "main": "index.js",
   "private": true,
@@ -16,7 +16,9 @@
     "@semantic-release/git": "^10.0.1"
   },
   "release": {
-    "branches": ["main"],
+    "branches": [
+      "main"
+    ],
     "tagFormat": "${version}",
     "plugins": [
       "@semantic-release/commit-analyzer",
@@ -26,13 +28,16 @@
       [
         "@semantic-release/changelog",
         {
-        "changelogFile": "CHANGELOG.md"
+          "changelogFile": "CHANGELOG.md"
         }
       ],
       [
         "@semantic-release/git",
         {
-          "assets": ["CHANGELOG.md", "package.json"]
+          "assets": [
+            "CHANGELOG.md",
+            "package.json"
+          ]
         }
       ]
     ]
