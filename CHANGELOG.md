@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/ptrptrd/test-semantic-release/compare/1.3.3...1.4.0) (2023-03-26)
+
+
+### Bug Fixes
+
+* change test line ([0c37670](https://github.com/ptrptrd/test-semantic-release/commit/0c376700426e73a624dd875bab7a8d54528cc336))
+
+
+### Features
+
+* add new log line ([4871be5](https://github.com/ptrptrd/test-semantic-release/commit/4871be56a367905101ed72cd35460e132eb24705))
+
 ## [1.3.3](https://github.com/ptrptrd/test-semantic-release/compare/1.3.2...1.3.3) (2023-03-26)
 
 
