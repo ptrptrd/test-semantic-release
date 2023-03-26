@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/ptrptrd/test-semantic-release/compare/1.3.2...1.3.3) (2023-03-26)
+
+
+### Bug Fixes
+
+* change test line ([eaed37e](https://github.com/ptrptrd/test-semantic-release/commit/eaed37e2428c2e1bfe71487f6f6333f634607792))
+
 ## [1.3.2](https://github.com/ptrptrd/test-semantic-release/compare/1.3.1...1.3.2) (2023-03-26)
 
 
