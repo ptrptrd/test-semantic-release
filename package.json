@@ -1,6 +1,6 @@
 {
   "name": "test-semantic-release",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Repository for testing purposes",
   "main": "index.js",
   "private": true,

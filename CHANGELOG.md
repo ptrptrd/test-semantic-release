@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/ptrptrd/test-semantic-release/compare/1.4.0...1.4.1) (2023-03-27)
+
+
+### Bug Fixes
+
+* **ci:** add missing packages ([df383a7](https://github.com/ptrptrd/test-semantic-release/commit/df383a7bc457de950693a806da9d50dd2d6d8b1c))
+
 # [1.4.0](https://github.com/ptrptrd/test-semantic-release/compare/1.3.3...1.4.0) (2023-03-26)
 
 
