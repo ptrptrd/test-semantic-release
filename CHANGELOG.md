@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/ptrptrd/test-semantic-release/compare/1.4.1...1.4.2) (2024-01-28)
+
+
+### Bug Fixes
+
+* remove third line ([#9](https://github.com/ptrptrd/test-semantic-release/issues/9)) ([34fd24a](https://github.com/ptrptrd/test-semantic-release/commit/34fd24ab6f32e8e7b77fb96dd05fc34243f92a40))
+
 ## [1.4.1](https://github.com/ptrptrd/test-semantic-release/compare/1.4.0...1.4.1) (2023-03-27)
 
 
